@@ -9,6 +9,8 @@ chrome浏览器运行chrome://version/，获取浏览器版本号
 找到对应浏览器版本的chromedriver下载  
 将baidu_image_downloader.py中的executable_path换成chromedriver的目录
 
+将url换成想要的地址  
+运行chongchongpiano_score_downloader.py脚本，会在output文件夹下生成五线谱和简谱的pdf文件
 
 
 
